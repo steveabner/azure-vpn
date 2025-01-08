@@ -5,8 +5,12 @@
 <h1>How to Setup and Use a VPN in Azure</h1>
 
 <h2>Description</h2>
-In this project, I will configure a VPN using an Azure Virtual Machine (VM) with ProtonVPN as the chosen VPN service. <br />
-<br />
+<p>
+For this project, I will utilize the Windows 10 Virtual Machine that I set up in my 
+<a href="https://github.com/steveabner/Cloud-SOC">SOC / Honeynet in Azure</a> project. 
+I will configure a VPN using an Azure Virtual Machine (VM) with ProtonVPN as the chosen VPN service.
+</p>
+
 Virtual Private Networks (VPNs) enable secure connections to a network through encrypted tunnels, enhancing privacy and security. Common uses for VPNs include enabling remote work for companies and accessing content that may otherwise be restricted or unavailable.  
 <br/>
 
