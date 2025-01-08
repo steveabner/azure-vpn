@@ -61,4 +61,6 @@ Virtual Private Networks (VPNs) enable secure connections to a network through e
 
   ![2025-01-08 13_30_18-Window](https://github.com/user-attachments/assets/5916e3ab-8658-4d6e-934c-3979a81f4dfe)
 
-  
+### Summary  
+This project demonstrates how to configure and utilize a VPN on a Windows 10 Virtual Machine hosted in Microsoft Azure, with ProtonVPN as the chosen service. Through this walkthrough, I explored how VPNs enhance privacy and security by encrypting internet traffic and masking IP addresses. By comparing IP address data and geolocations before and after connecting to the VPN, this project highlights the practical use of VPNs for secure remote access and bypassing geographical restrictions on websites. It also offers insight into how VPNs can alter the browsing experience on popular platforms like Amazon, Google, and Netflix.
+
