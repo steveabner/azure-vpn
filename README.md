@@ -6,8 +6,8 @@
 
 <h2>Description</h2>
 <p>
-For this project, I will utilize the Windows 10 Virtual Machine that I set up in my 
-<a href="https://github.com/steveabner/Cloud-SOC">SOC / Honeynet in Azure</a> project to configure a VPN using ProtonVPN as the chosen VPN service.
+For this project, I will utilize the Windows 10 Virtual Machine from my 
+<a href="https://github.com/steveabner/Cloud-SOC">SOC / Honeynet in Azure</a> project to configure a VPN, with ProtonVPN as the chosen service.
 </p>
 
 Virtual Private Networks (VPNs) enable secure connections to a network through encrypted tunnels, enhancing privacy and security. Common uses for VPNs include enabling remote work for companies and accessing content that may otherwise be restricted or unavailable.  
