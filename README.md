@@ -15,8 +15,8 @@ Virtual Private Networks (VPNs) enable secure connections to a network through e
 
 <h2>Environments and Utilities Used</h2>
 
-- <b>ProtonVPN</b>
 - <b>Microsoft Azure</b>
+- <b>ProtonVPN</b>
 
 <h2>Project Walk-through:</h2>
 
