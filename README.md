@@ -20,4 +20,4 @@ Virtual Private Networks (VPNs) enable secure connections to a network through e
 
 <h2>Project Walk-through:</h2>
 
-For this project, I will utilize the Windows 10 Virtual Machine that I set up in my [SOC / Honeynet in Azure](https://github.com/steveabner/Cloud-SOC) project.
+
