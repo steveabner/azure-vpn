@@ -20,4 +20,11 @@ Virtual Private Networks (VPNs) enable secure connections to a network through e
 
 <h2>Project Walk-through:</h2>
 
+- I'll navigate to https://whatismyipaddress.com, and record my current IP Address and location.
 
+  ![2025-01-08 12_25_40-Window](https://github.com/user-attachments/assets/d428347e-9d0c-4b48-ad09-08ca1f7f5c53)
+  ![2025-01-08 12_27_10-Window](https://github.com/user-attachments/assets/2cc7cf45-d750-4164-8bd8-53cd9ab26ca9)
+
+- Next, I will remote into my Virtual Machine, revisit the same website, and document the IP address and location.
+
+  
