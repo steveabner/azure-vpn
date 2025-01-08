@@ -25,6 +25,8 @@ Virtual Private Networks (VPNs) enable secure connections to a network through e
   ![2025-01-08 12_25_40-Window](https://github.com/user-attachments/assets/d428347e-9d0c-4b48-ad09-08ca1f7f5c53)
   ![2025-01-08 12_27_10-Window](https://github.com/user-attachments/assets/2cc7cf45-d750-4164-8bd8-53cd9ab26ca9)
 
-- Next, I will remote into my Virtual Machine, revisit the same website, and document the IP address and location.
+- Next, I will remote into my Virtual Machine, revisit the same website, and add the IP address and location to my notes.
 
-  
+  ![2025-01-08 12_36_59-Window](https://github.com/user-attachments/assets/2d97a358-da5d-425b-b046-3e8c4e83a172)
+  ![2025-01-08 12_38_12-Window](https://github.com/user-attachments/assets/42e631a2-8f7e-4f68-8836-964de0e006f9)
+
