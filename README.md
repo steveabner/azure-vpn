@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/nBkHqaM.png" height="80%" width="80%" alt="Setting Up in Azure"/>
 <br />
 
-<h1>How to Setup and Use a VPN | ProtonVPN</h1>
+<h1>How to Setup and Use a VPN in Azure</h1>
 
 <h2>Description</h2>
 In this project, I will configure a VPN using an Azure Virtual Machine (VM) with ProtonVPN as the chosen VPN service. <br />
