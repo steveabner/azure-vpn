@@ -1,4 +1,4 @@
-![2025-01-08 12_45_13-Window](https://github.com/user-attachments/assets/ba36c4d0-597e-4464-8550-00e50dd651d6)<p align="center">
+<p align="center">
 <img src="https://i.imgur.com/nBkHqaM.png" height="80%" width="80%" alt="Setting Up in Azure"/>
 <br />
 
